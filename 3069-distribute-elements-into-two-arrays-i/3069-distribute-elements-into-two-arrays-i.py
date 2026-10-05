@@ -13,6 +13,5 @@ class Solution:
             else:
                 arr2.append(nums[i])
                 p2 += 1
-        arr1.extend(arr2) 
-        return  arr1   
+        return arr1 + arr2 
         
