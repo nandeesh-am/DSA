@@ -93,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/nandeesh-am/DSA/tree/master/0410-split-array-largest-sum) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/nandeesh-am/DSA/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
