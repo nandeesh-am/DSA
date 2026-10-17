@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/nandeesh-am/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/nandeesh-am/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/nandeesh-am/DSA/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/nandeesh-am/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/nandeesh-am/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0136-single-number](https://github.com/nandeesh-am/DSA/tree/master/0136-single-number) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/nandeesh-am/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nandeesh-am/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/nandeesh-am/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/nandeesh-am/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/nandeesh-am/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/nandeesh-am/DSA/tree/master/0162-find-peak-element) |
 | [0410-split-array-largest-sum](https://github.com/nandeesh-am/DSA/tree/master/0410-split-array-largest-sum) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/nandeesh-am/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/nandeesh-am/DSA/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/nandeesh-am/DSA/tree/master/0074-search-a-2d-matrix) |
 ## Simulation
 |  |
 | ------- |
