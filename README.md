@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/nandeesh-am/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/nandeesh-am/DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/nandeesh-am/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/nandeesh-am/DSA/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/nandeesh-am/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0136-single-number](https://github.com/nandeesh-am/DSA/tree/master/0136-single-number) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/nandeesh-am/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/nandeesh-am/DSA/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nandeesh-am/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/nandeesh-am/DSA/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/nandeesh-am/DSA/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/nandeesh-am/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nandeesh-am/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nandeesh-am/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/nandeesh-am/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/nandeesh-am/DSA/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/nandeesh-am/DSA/tree/master/0075-sort-colors) |
 ## Math
 |  |
 | ------- |
@@ -110,4 +113,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/nandeesh-am/DSA/tree/master/0175-combine-two-tables) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/nandeesh-am/DSA/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/nandeesh-am/DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
