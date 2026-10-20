@@ -8,7 +8,10 @@ class Solution:
             last_digite = x % 10
             x = x//10
             rev = (rev*10)+last_digite
-        return rev == y
+        if rev == y:
+            return True
+        else:
+            return False
           
 
         
