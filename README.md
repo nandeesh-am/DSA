@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/nandeesh-am/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/nandeesh-am/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/nandeesh-am/DSA/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/nandeesh-am/DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nandeesh-am/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Hash Table
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/nandeesh-am/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/nandeesh-am/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/nandeesh-am/DSA/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/nandeesh-am/DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Two Pointers
 |  |
 | ------- |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/nandeesh-am/DSA/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/nandeesh-am/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nandeesh-am/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/nandeesh-am/DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nandeesh-am/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Divide and Conquer
 |  |
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/nandeesh-am/DSA/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/nandeesh-am/DSA/tree/master/0242-valid-anagram) |
 | [1331-rank-transform-of-an-array](https://github.com/nandeesh-am/DSA/tree/master/1331-rank-transform-of-an-array) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/nandeesh-am/DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Math
 |  |
 | ------- |
