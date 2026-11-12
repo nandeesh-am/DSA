@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/nandeesh-am/DSA/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/nandeesh-am/DSA/tree/master/0048-rotate-image) |
 | [0523-continuous-subarray-sum](https://github.com/nandeesh-am/DSA/tree/master/0523-continuous-subarray-sum) |
+| [1903-largest-odd-number-in-string](https://github.com/nandeesh-am/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/nandeesh-am/DSA/tree/master/0410-split-array-largest-sum) |
+| [1903-largest-odd-number-in-string](https://github.com/nandeesh-am/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/nandeesh-am/DSA/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Prefix Sum
 |  |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/nandeesh-am/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/nandeesh-am/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/nandeesh-am/DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/nandeesh-am/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Queue
 |  |
 | ------- |
