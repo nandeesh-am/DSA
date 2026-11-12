@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/nandeesh-am/DSA/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/nandeesh-am/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/nandeesh-am/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [1021-remove-outermost-parentheses](https://github.com/nandeesh-am/DSA/tree/master/1021-remove-outermost-parentheses) |
 ## Queue
 |  |
 | ------- |
@@ -172,4 +173,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/nandeesh-am/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/nandeesh-am/DSA/tree/master/0387-first-unique-character-in-a-string) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/nandeesh-am/DSA/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/nandeesh-am/DSA/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
